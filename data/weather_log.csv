@@ -1,6 +1,7 @@
 timestamp,city,temperature,description
+timestamp,city,temperature,description
 2026-03-16T12:30:32.613Z,Budapest,15.44,clear sky
 2026-03-16T12:35:38.378Z,Budapest,15.67,clear sky
 2026-03-16T12:37:06.412Z,Budapest,15.67,clear sky
 2026-03-16T15:40:00.879Z,Budapest,12.33,clear sky
-2026-03-16T16:02:35.258Z,Budapest,11.5,clear sky
+2026-03-16T16:02:35.258Z,Budapest,11.5,clear sky2026-03-17T14:09:20.146Z,Budapest,12.16,broken clouds

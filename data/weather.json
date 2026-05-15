@@ -5,35 +5,32 @@
   },
   "weather": [
     {
-      "id": 520,
-      "main": "Rain",
-      "description": "light intensity shower rain",
-      "icon": "09d"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 13.32,
-    "feels_like": 12.82,
-    "temp_min": 13.22,
-    "temp_max": 13.49,
-    "pressure": 1003,
-    "humidity": 81,
-    "sea_level": 1003,
+    "temp": 12.47,
+    "feels_like": 12.04,
+    "temp_min": 12.11,
+    "temp_max": 12.93,
+    "pressure": 1002,
+    "humidity": 87,
+    "sea_level": 1002,
     "grnd_level": 981
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.6,
-    "deg": 240
-  },
-  "rain": {
-    "1h": 1.73
+    "speed": 0.51,
+    "deg": 0
   },
   "clouds": {
-    "all": 100
+    "all": 0
   },
-  "dt": 1778865633,
+  "dt": 1778872436,
   "sys": {
     "type": 2,
     "id": 2009313,
@@ -45,5 +42,5 @@
   "id": 3054643,
   "name": "Budapest",
   "cod": 200,
-  "_last_updated_utc": "2026-05-15T17:21:58.825Z"
+  "_last_updated_utc": "2026-05-15T19:16:09.739Z"
 }
